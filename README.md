@@ -1,7 +1,7 @@
 <H3>NAME: DHANUSH P</H3>
 <H3>REGISTER NO: 212223230042</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:09-10-2025</H3>
+<H3>DATE:28-10-2025</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
 <h3>Aim:</h3>
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
